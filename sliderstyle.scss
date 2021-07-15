@@ -1,8 +1,8 @@
 // Colors
 $b1cd: #F3FEFF;
 $b1cl: #B6BFBF;
-$b2cd: #000050;
-$b2cl: #0033ff;
+$b2cd: #F3FEFF;
+$b2cl: #ceab87;
 $b3cd: #00501d;
 $b3cl: #00ff44;
 $b4cd: #554d00;
@@ -12,6 +12,16 @@ $b5cl: #8000ff;
 $black: #000;
 $white: #fff;
 $grey: #FFFFFF;
+
+.img_logo{
+  width: 100%;
+  height: auto;
+}
+
+.img_poster{
+  width: 60%;
+  height: auto;
+}
 
 ////////// Mixin
 

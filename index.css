@@ -1,14 +1,19 @@
+.img_logo {
+  width: 100%;
+  height: auto;
+}
+
+.img_poster {
+  width: 60%;
+  height: auto;
+}
+
 *,
 *:before,
 *:after {
   margin: 0;
   padding: 0;
   box-sizing: inherit;
-}
-
-img {
-  width: 100%;
-  height: auto;
 }
 
 html {
@@ -176,16 +181,16 @@ body {
   background-color: #B6BFBF;
 }
 .slider .box2 {
-  background-color: #000050;
+  background-color: #F3FEFF;
 }
 .slider .box2 .illustration .inner {
-  background-color: #0033ff;
+  background-color: #ceab87;
 }
 .slider .box2 .illustration .inner::after, .slider .box2 .illustration .inner::before {
-  background-color: rgba(0, 51, 255, 0.4);
+  background-color: rgba(206, 171, 135, 0.4);
 }
 .slider .box2 button {
-  background-color: #0033ff;
+  background-color: #ceab87;
 }
 .slider .box3 {
   background-color: #00501d;
